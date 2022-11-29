@@ -1,5 +1,5 @@
 function volleyball([year, dayHolidays, dayWeekend]){
-    let leapOrNormal = year.toLowerCase();
+    let leapOrNormal = year;
     let holiday = parseInt(dayHolidays);
     let weekends = parseInt(dayWeekend);
 
