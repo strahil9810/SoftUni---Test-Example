@@ -10,4 +10,4 @@ function numberInRange(input) {
 
     console.log(`The number is: ${num}`);
 }
-numberInRange([140])
+numberInRange([16])
